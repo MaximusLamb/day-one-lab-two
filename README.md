@@ -1,3 +1,9 @@
-# day-one-lab-twoI am flying with git
+# day-one-lab-two
 
-\ some more text
+I am flying with git
+
+
+some **more** text
+
+- one 
+- two
